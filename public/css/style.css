@@ -1,0 +1,42 @@
+#login {
+    display: flex;
+    align-items: center;
+    height: 600px;
+    color: black;
+}
+
+#login h2,
+p {
+    text-align: center;
+    padding-top: 20px;
+}
+
+#mid img {
+    padding-top: 20px;
+    width: 50px;
+}
+
+#mid h5 {
+    text-align: center;
+}
+
+#mid p {
+    text-align: center;
+}
+
+#header {
+    background-color: rgb(10, 157, 237);
+
+    /* background: linear-gradient(to right, rgb(6, 125, 210), rgb(2, 16, 98)); */
+    margin-bottom: 30px;
+    align-items: center;
+    color: white;
+  
+}
+
+#footer {
+    background-color: rgb(10, 157, 237);
+    text-align: center;
+    margin-top: 50px;
+    /* padding-top: 50px; */
+}
